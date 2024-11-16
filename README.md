@@ -1,5 +1,7 @@
 # RoadTrafficAccidentsSeverity-Prediction
 
+(Project as exceuted during the TMLC Program)
+
 **Description:** 
 This data set is collected from Addis Ababa Sub-city police departments for master's research work. 
 The data set has been prepared from manual records of road traffic accidents of the year 2017-20. 
